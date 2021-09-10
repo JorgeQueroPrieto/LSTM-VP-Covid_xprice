@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# LSTM-VP-Covid_xprice
-=======
-# XPRIZE Pandemic Response Challenge
+# Vaccination Policies study using the XPRIZE Pandemic Response Challenge lstm model
 
 ## Introduction
 Welcome to the [XPRIZE Pandemic Response Challenge](https://xprize.org/pandemicresponse)! This repository contains what you need to get started in creating your submission for the
