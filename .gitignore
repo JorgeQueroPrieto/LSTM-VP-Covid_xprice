@@ -15,11 +15,6 @@ covid_xprize/examples/predictors/linear/data/
 covid_xprize/examples/predictors/linear/models/
 covid_xprize/examples/predictors/linear/predictions/
 
-covid_xprize/examples/predictors/lstm/data/OxCGRT_latest.csv
-covid_xprize/examples/predictors/lstm/models/
-covid_xprize/examples/predictors/lstm/predictions/
-covid_xprize/examples/predictors/lstm/tests/fixtures/OxCGRT_latest.csv
-
 *prescription_*.csv
 **/neat-checkpoint-*
 covid_xprize/examples/prescriptors/neat/data/
